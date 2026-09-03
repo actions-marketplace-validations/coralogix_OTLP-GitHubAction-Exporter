@@ -1,9 +1,9 @@
 opentelemetry.api
-opentelemetry.sdk>=1.27.0
+opentelemetry.sdk>=1.43.0
 opentelemetry.exporter.otlp.proto.grpc
 opentelemetry.exporter.otlp.proto.http
 opentelemetry.instrumentation.logging
 pyrfc3339
-ghapi
+ghapi>=2.0.0,<3.0.0
 requests
 python-dateutil
